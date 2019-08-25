@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeoAT", "LeoAT\LeoAT.csproj", "{B56CADBB-DE21-4959-88D6-6643315D06F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAcessMemory", "DAL\DataAcessMemory.csproj", "{10B64291-50B8-47A7-887C-B1AC9AFA4CC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B56CADBB-DE21-4959-88D6-6643315D06F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56CADBB-DE21-4959-88D6-6643315D06F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56CADBB-DE21-4959-88D6-6643315D06F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56CADBB-DE21-4959-88D6-6643315D06F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B64291-50B8-47A7-887C-B1AC9AFA4CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B64291-50B8-47A7-887C-B1AC9AFA4CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B64291-50B8-47A7-887C-B1AC9AFA4CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B64291-50B8-47A7-887C-B1AC9AFA4CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {792B00BF-2EA7-479E-8079-F4459F9C768F}
+	EndGlobalSection
+EndGlobal
